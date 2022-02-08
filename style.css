@@ -36,13 +36,15 @@ li {
 }
 
 div.div0 {
-  max-width: 500px;
+  justify-content: center;
   margin: auto;
+  max-width: 500px;
 }
 
 div.div0 {
-  max-width: 1000px;
+  justify-content: center;
   margin: auto;
+  max-width: 1000px;
 }
 
 .my-rect {
