@@ -25,10 +25,12 @@ body {
 
   /* Then we define how is distributed the remaining space */
   justify-content: center;
+  margin: auto;
+  max-width: 1000px;
 
-  /*
+  
   gap: 10px 30px;
-*/
+
 }
 
 li {
@@ -37,26 +39,31 @@ li {
 
 
 div.div1 {
+  justify-content: center;
   margin: auto;
   max-width: 1000px;
 }
 
-.my-rect {
+rect {
   fill: #FA8072;
+  width: 50px; 
+  height: 50px;
   
 }
 
-.my-rect:hover {
+rect:hover {
   fill: #03ACB1;
   
 }
 
-.my-circ {
+circle {
   fill: #FA8072;
-  
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
 }
 
-.my-circ:hover {
+circle:hover {
   fill: #03ACB1;
   
 }
