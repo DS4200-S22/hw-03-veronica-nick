@@ -1,7 +1,7 @@
 # hw-03
 hw-03 - HTML+CSS &amp; Marks+Channels
 
-Link to GitHub Pages: https://nick-coury.github.io/hw-03-veronica-nick/
+Link to GitHub Pages: https://ds4200-s22.github.io/hw-03-veronica-nick/
 
 ## Purpose
 
