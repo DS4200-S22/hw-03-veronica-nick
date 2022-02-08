@@ -31,6 +31,10 @@ body {
 */
 }
 
+li {
+  display: inline;
+}
+
 div.div0 {
   max-width: 500px;
   margin: auto;
