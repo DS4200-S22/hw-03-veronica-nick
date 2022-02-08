@@ -31,11 +31,22 @@ body {
 */
 }
 
-.my-shape {
+.my-rect {
   fill: #FA8072;
+  
 }
 
-.my-shape:hover {
+.my-rect:hover {
   fill: #03ACB1;
+  
 }
 
+.my-circ {
+  fill: #FA8072;
+  
+}
+
+.my-circ:hover {
+  fill: #03ACB1;
+  
+}
