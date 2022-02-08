@@ -1,4 +1,4 @@
-style.css
+
 
 h1 {
   color: black; 
@@ -26,6 +26,7 @@ body {
   /* Then we define how is distributed the remaining space */
   justify-content: center;
 
+  /*
   gap: 10px 30px;
-
+*/
 }
