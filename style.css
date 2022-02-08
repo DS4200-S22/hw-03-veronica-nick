@@ -32,9 +32,9 @@ body {
 }
 
 .my-rect {
-  fill: #f33;
+  fill: #FA8072;
 }
 
 .my-rect:hover {
-  fill: #000;
+  fill: #03ACB1;
 }
