@@ -1,5 +1,5 @@
 
-html,
+
 h1 {
   color: black; 
   text-align: center;
@@ -37,6 +37,11 @@ li {
 
 div.div0 {
   max-width: 500px;
+  margin: auto;
+}
+
+div.div0 {
+  max-width: 1000px;
   margin: auto;
 }
 
