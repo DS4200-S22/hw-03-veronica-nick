@@ -35,14 +35,8 @@ li {
   display: inline;
 }
 
-div.div0 {
-  justify-content: center;
-  margin: auto;
-  max-width: 500px;
-}
 
-div.div0 {
-  justify-content: center;
+div.div1 {
   margin: auto;
   max-width: 1000px;
 }
