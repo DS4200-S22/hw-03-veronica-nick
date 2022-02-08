@@ -30,3 +30,11 @@ body {
   gap: 10px 30px;
 */
 }
+
+.my-rect {
+  fill: #f33;
+}
+
+.my-rect:hover {
+  fill: #000;
+}
