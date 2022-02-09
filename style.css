@@ -11,26 +11,28 @@ body {
 
 .image-display {
   /* We first create a flex layout context */
+  align-content: center;
   display: flex;
-
-  /* Then we define the flow direction 
-     and if we allow the items to wrap 
-   * Remember this is the same as:
-   * flex-direction: row;
-   * flex-wrap: wrap;
-   */
   flex-direction: row;
   flex-wrap : wrap;
-
+  gap: 10px 30px;
 
   /* Then we define how is distributed the remaining space */
-  justify-content: center;
+  
   margin: auto;
   max-width: 1000px;
 
   
-  gap: 10px 30px;
+  
 
+}
+
+.chart-item {
+  padding: 5px;
+  width: 200px;
+  height: 200px;
+  margin-top: 10px;
+  line-height: 150px;
 }
 
 li {
