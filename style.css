@@ -10,20 +10,13 @@ body {
 }
 
 .image-display {
-  /* We first create a flex layout context */
   align-content: center;
   display: flex;
   flex-direction: row;
   flex-wrap : wrap;
   gap: 10px 30px;
-
-  /* Then we define how is distributed the remaining space */
-  
   margin: auto;
   max-width: 1000px;
-
-  
-  
 
 }
 
@@ -33,6 +26,12 @@ body {
   height: 200px;
   margin-top: 10px;
   line-height: 150px;
+  float:  left;
+  text-align: center;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 1px;
+  padding: 1px;
 }
 
 li {
@@ -40,7 +39,7 @@ li {
 }
 
 
-div.div1 {
+div.shapes {
   justify-content: center;
   margin: auto;
   max-width: 1000px;
