@@ -33,7 +33,7 @@ body {
   padding: 1px;
 }
 
-li {
+li.shapes {
   display: inline;
   border: thick black solid;
 }
