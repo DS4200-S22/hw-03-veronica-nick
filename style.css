@@ -29,13 +29,13 @@ body {
   float:  left;
   text-align: center;
   text-indent: 0;
-  border: thin silver solid;
   margin: 1px;
   padding: 1px;
 }
 
 li {
   display: inline;
+  border: thick black solid;
 }
 
 
