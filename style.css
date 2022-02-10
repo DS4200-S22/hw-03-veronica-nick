@@ -8,7 +8,6 @@ h1 {
 h2 {
   color: black; 
   text-align: center;
-  font-size:60%;
 }
 body {
   font-family: Arial;
@@ -43,6 +42,9 @@ li.charts {
   border: thick black solid;
 }
 
+div.ack{
+  text-align: center;
+}
 
 div.shapes {
   justify-content: center;
